@@ -18,3 +18,8 @@ In the second experiment the moving virtual surface is changed to a circular for
 
 ![image](https://user-images.githubusercontent.com/116259509/199899611-b12809c7-b387-4edf-bcba-35ab4aba4ec6.png)
 
+## Scenario IV Scalable Drawing
+
+![image](https://user-images.githubusercontent.com/116259509/199903030-d55a780c-72d9-48fc-83d5-5d7470e94c19.png)
+
+![image](https://user-images.githubusercontent.com/116259509/199903078-f6f28a58-74fa-4bdb-8294-7a16f6c59fe7.png)
