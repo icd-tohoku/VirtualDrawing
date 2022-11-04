@@ -8,10 +8,13 @@ To find out if our text augmentation leads to a better drawing experience, we fi
 
 ## Scenario II Moving virtual surface
 The first experiment to augment the users input can be summarized by the graphic below.
+
 ![image](https://user-images.githubusercontent.com/116259509/199894705-feaf73ac-c501-4a83-a8b4-af317d108276.png)
+
 In this case the user keeps inputting in the same physical location, as the virtual surface moves in a predetermined direction. The speed in which it moves needs to be calculated by the speed of input of the user. To conclude if the user has finished a drawing (e.g. a letter) the programm needs to wait a certain amount of time as only detecting if the input has stopped once does not mean a letter is finished (e.g. "i",　"お"). In user testings those timings need to be refined.
 
 ## Scenario III Circular moving virtual surface
 In the second experiment the moving virtual surface is changed to a circular form as can be seen in the following graphic.
+
 ![image](https://user-images.githubusercontent.com/116259509/199899611-b12809c7-b387-4edf-bcba-35ab4aba4ec6.png)
 
