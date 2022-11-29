@@ -1,0 +1,9 @@
+﻿StartPoint,512,912
+NotVertical,1,400,512,112
+NotVertical,-1,624,112,512
+NotVertical,1,-400,512,912
+NotVertical,-1,1424,912,512
+Vertical,794,230,794
+NotVertical,0,794,794,230
+Vertical,230,794,230
+NotVertical,0,230,230,794

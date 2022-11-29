@@ -1,0 +1,5 @@
+﻿StartPoint,256,768
+Vertical,256,256,768
+NotVertical,0,768,256,768
+Vertical,768,256,768
+NotVertical,0,256,256,768

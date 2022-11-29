@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52eab1088dd8ba43b0a528a9055d9b1, type: 3}
+  m_Name: New Line List
+  m_EditorClassIdentifier: 
+  Lines:
+  - a: 1.7312139
+    b: 25.61847
+    MinX: 512
+    MaxX: 166
+    isVertical: 0
+    MinY: 0
+    MaxY: 0
+  - a: -0.0014450867
+    b: 313.2399
+    MinX: 166
+    MaxX: 858
+    isVertical: 0
+    MinY: 0
+    MaxY: 0
+  - a: -1.734104
+    b: 1799.8612
+    MinX: 858
+    MaxX: 512
+    isVertical: 0
+    MinY: 0
+    MaxY: 0
+  - a: 1.734104
+    b: -575.86127
+    MinX: 512
+    MaxX: 685
+    isVertical: 0
+    MinY: 0
+    MaxY: 0
+  - a: -0
+    b: 612
+    MinX: 685
+    MaxX: 339
+    isVertical: 0
+    MinY: 0
+    MaxY: 0
+  - a: -1.734104
+    b: 1199.8613
+    MinX: 339
+    MaxX: 512
+    isVertical: 0
+    MinY: 0
+    MaxY: 0
+  AddStart: {x: 974, y: 512}
+  AddEnd: {x: 50, y: 512}
+  StartDrawingPoint: {x: 230, y: 794}
+  DotSize: 20
